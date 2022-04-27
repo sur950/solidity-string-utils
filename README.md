@@ -11,7 +11,7 @@ Functions that have to copy string data will return strings rather than slices; 
 
 ## Examples
 ### Basic usage
-    import "github.com/sur950/solidity-string-utils/blob/src/Strings.sol";
+    import "github.com/sur950/solidity-string-utils/blob/main/src/Strings.sol";
 
     contract Contract {
         using Strings for *;
